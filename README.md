@@ -25,5 +25,5 @@ The primary objective of this A/B test is to assess the effectiveness of the imp
    - Also, lift nad confident intervals considered for clearer conclusion.
 
 ### Conclusion:
-The results of this A/B test will provide valuable insights into the efficacy of the solution in addressing duplication issues and its impact on revenue metrics. Any significant findings will inform future decisions and optimizations regarding our system's performance and data integrity. you can see the code here.
+The results of this A/B test will provide valuable insights into the efficacy of the solution in addressing duplication issues and its impact on revenue metrics. Any significant findings will inform future decisions and optimizations regarding our system's performance and data integrity. you can see the code [here](https://github.com/MahmoodAbdali79/practical-A-B-test/blob/main/ab-test%20analysis.ipynb).
 
